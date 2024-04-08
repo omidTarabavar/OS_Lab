@@ -1,0 +1,7 @@
+F:\Github\OS_Lab\Session2_Class\Session2_Class\bin\Debug\Session2_Class.exe.config
+F:\Github\OS_Lab\Session2_Class\Session2_Class\bin\Debug\Session2_Class.exe
+F:\Github\OS_Lab\Session2_Class\Session2_Class\bin\Debug\Session2_Class.pdb
+F:\Github\OS_Lab\Session2_Class\Session2_Class\obj\Debug\Session2_Class.csproj.AssemblyReference.cache
+F:\Github\OS_Lab\Session2_Class\Session2_Class\obj\Debug\Session2_Class.csproj.CoreCompileInputs.cache
+F:\Github\OS_Lab\Session2_Class\Session2_Class\obj\Debug\Session2_Class.exe
+F:\Github\OS_Lab\Session2_Class\Session2_Class\obj\Debug\Session2_Class.pdb
