@@ -1,0 +1,7 @@
+F:\Github\OS_Lab\Assignments\OS_2\OS_2\bin\Debug\OS_2.exe.config
+F:\Github\OS_Lab\Assignments\OS_2\OS_2\bin\Debug\OS_2.exe
+F:\Github\OS_Lab\Assignments\OS_2\OS_2\bin\Debug\OS_2.pdb
+F:\Github\OS_Lab\Assignments\OS_2\OS_2\obj\Debug\OS_2.csproj.AssemblyReference.cache
+F:\Github\OS_Lab\Assignments\OS_2\OS_2\obj\Debug\OS_2.csproj.CoreCompileInputs.cache
+F:\Github\OS_Lab\Assignments\OS_2\OS_2\obj\Debug\OS_2.exe
+F:\Github\OS_Lab\Assignments\OS_2\OS_2\obj\Debug\OS_2.pdb
