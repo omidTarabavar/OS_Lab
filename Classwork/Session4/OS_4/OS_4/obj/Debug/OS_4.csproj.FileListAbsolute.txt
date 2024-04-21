@@ -1,0 +1,7 @@
+F:\Github\OS_Lab\Classwork\Session4\OS_4\OS_4\bin\Debug\OS_4.exe.config
+F:\Github\OS_Lab\Classwork\Session4\OS_4\OS_4\bin\Debug\OS_4.exe
+F:\Github\OS_Lab\Classwork\Session4\OS_4\OS_4\bin\Debug\OS_4.pdb
+F:\Github\OS_Lab\Classwork\Session4\OS_4\OS_4\obj\Debug\OS_4.csproj.AssemblyReference.cache
+F:\Github\OS_Lab\Classwork\Session4\OS_4\OS_4\obj\Debug\OS_4.csproj.CoreCompileInputs.cache
+F:\Github\OS_Lab\Classwork\Session4\OS_4\OS_4\obj\Debug\OS_4.exe
+F:\Github\OS_Lab\Classwork\Session4\OS_4\OS_4\obj\Debug\OS_4.pdb
