@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NWD+Odo8g1rdxTA+ObRxt55cWUt1a3qsatcRhJ7gbjK1xCP4gbyosFo72jjndn1wLkNkfSkWEzG0gxex2nieDQ==",
+  "success": true,
+  "projectFilePath": "F:\\Github\\OS_Lab\\Assignments\\OS_3\\OS_3\\OS_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omidt\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

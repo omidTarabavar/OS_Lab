@@ -1,0 +1,7 @@
+F:\Github\OS_Lab\Classwork\Session3\WorkWithFiles\WorkWithFiles\bin\Debug\WorkWithFiles.exe.config
+F:\Github\OS_Lab\Classwork\Session3\WorkWithFiles\WorkWithFiles\bin\Debug\WorkWithFiles.exe
+F:\Github\OS_Lab\Classwork\Session3\WorkWithFiles\WorkWithFiles\bin\Debug\WorkWithFiles.pdb
+F:\Github\OS_Lab\Classwork\Session3\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.csproj.AssemblyReference.cache
+F:\Github\OS_Lab\Classwork\Session3\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.csproj.CoreCompileInputs.cache
+F:\Github\OS_Lab\Classwork\Session3\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.exe
+F:\Github\OS_Lab\Classwork\Session3\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.pdb
