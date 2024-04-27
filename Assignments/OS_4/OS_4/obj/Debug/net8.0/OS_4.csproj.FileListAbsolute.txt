@@ -1,0 +1,15 @@
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\obj\Debug\net8.0\OS_4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\obj\Debug\net8.0\OS_4.AssemblyInfoInputs.cache
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\obj\Debug\net8.0\OS_4.AssemblyInfo.cs
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\obj\Debug\net8.0\OS_4.csproj.CoreCompileInputs.cache
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\obj\Debug\net8.0\OS_4.sourcelink.json
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\bin\Debug\net8.0\OS_4.exe
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\bin\Debug\net8.0\OS_4.deps.json
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\bin\Debug\net8.0\OS_4.runtimeconfig.json
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\bin\Debug\net8.0\OS_4.dll
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\bin\Debug\net8.0\OS_4.pdb
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\obj\Debug\net8.0\OS_4.dll
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\obj\Debug\net8.0\refint\OS_4.dll
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\obj\Debug\net8.0\OS_4.pdb
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\obj\Debug\net8.0\OS_4.genruntimeconfig.cache
+F:\Github\OS_Lab\Assignments\OS_4\OS_4\obj\Debug\net8.0\ref\OS_4.dll
