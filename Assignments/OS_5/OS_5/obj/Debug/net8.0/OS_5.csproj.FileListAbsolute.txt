@@ -1,0 +1,15 @@
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\bin\Debug\net8.0\OS_5.exe
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\bin\Debug\net8.0\OS_5.deps.json
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\bin\Debug\net8.0\OS_5.runtimeconfig.json
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\bin\Debug\net8.0\OS_5.dll
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\bin\Debug\net8.0\OS_5.pdb
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\obj\Debug\net8.0\OS_5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\obj\Debug\net8.0\OS_5.AssemblyInfoInputs.cache
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\obj\Debug\net8.0\OS_5.AssemblyInfo.cs
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\obj\Debug\net8.0\OS_5.csproj.CoreCompileInputs.cache
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\obj\Debug\net8.0\OS_5.sourcelink.json
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\obj\Debug\net8.0\OS_5.dll
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\obj\Debug\net8.0\refint\OS_5.dll
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\obj\Debug\net8.0\OS_5.pdb
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\obj\Debug\net8.0\OS_5.genruntimeconfig.cache
+F:\Github\OS_Lab\Assignments\OS_5\OS_5\obj\Debug\net8.0\ref\OS_5.dll

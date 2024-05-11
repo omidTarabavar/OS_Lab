@@ -1,0 +1,15 @@
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\bin\Debug\net8.0\Client.exe
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\bin\Debug\net8.0\Client.deps.json
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\bin\Debug\net8.0\Client.dll
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\bin\Debug\net8.0\Client.pdb
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\obj\Debug\net8.0\Client.sourcelink.json
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\obj\Debug\net8.0\Client.dll
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\obj\Debug\net8.0\refint\Client.dll
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\obj\Debug\net8.0\Client.pdb
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+F:\Github\OS_Lab\Assignments\OS_5\Client\Client\obj\Debug\net8.0\ref\Client.dll
