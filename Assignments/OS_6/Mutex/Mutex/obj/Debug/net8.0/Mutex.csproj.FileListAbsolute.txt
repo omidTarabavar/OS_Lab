@@ -1,0 +1,15 @@
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\bin\Debug\net8.0\Mutex.exe
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\bin\Debug\net8.0\Mutex.deps.json
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\bin\Debug\net8.0\Mutex.runtimeconfig.json
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\bin\Debug\net8.0\Mutex.dll
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\bin\Debug\net8.0\Mutex.pdb
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\obj\Debug\net8.0\Mutex.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\obj\Debug\net8.0\Mutex.AssemblyInfoInputs.cache
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\obj\Debug\net8.0\Mutex.AssemblyInfo.cs
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\obj\Debug\net8.0\Mutex.csproj.CoreCompileInputs.cache
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\obj\Debug\net8.0\Mutex.sourcelink.json
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\obj\Debug\net8.0\Mutex.dll
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\obj\Debug\net8.0\refint\Mutex.dll
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\obj\Debug\net8.0\Mutex.pdb
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\obj\Debug\net8.0\Mutex.genruntimeconfig.cache
+F:\Github\OS_Lab\Assignments\OS_6\Mutex\Mutex\obj\Debug\net8.0\ref\Mutex.dll

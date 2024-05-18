@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Github\\OS_Lab\\Assignments\\OS_6\\Monitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C374C9D6-2663-4376-9ECA-7B6348D4DE27}|Monitor\\Monitor.csproj|f:\\github\\os_lab\\assignments\\os_6\\monitor\\monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374C9D6-2663-4376-9ECA-7B6348D4DE27}|Monitor\\Monitor.csproj|solutionrelative:monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Github\\OS_Lab\\Assignments\\OS_6\\Monitor\\Monitor\\Program.cs",
+              "RelativeDocumentMoniker": "Monitor\\Program.cs",
+              "ToolTip": "F:\\Github\\OS_Lab\\Assignments\\OS_6\\Monitor\\Monitor\\Program.cs",
+              "RelativeToolTip": "Monitor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:39:11.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\bin\Debug\net8.0\Autoreseteven.exe
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\bin\Debug\net8.0\Autoreseteven.deps.json
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\bin\Debug\net8.0\Autoreseteven.runtimeconfig.json
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\bin\Debug\net8.0\Autoreseteven.dll
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\bin\Debug\net8.0\Autoreseteven.pdb
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\obj\Debug\net8.0\Autoreseteven.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\obj\Debug\net8.0\Autoreseteven.AssemblyInfoInputs.cache
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\obj\Debug\net8.0\Autoreseteven.AssemblyInfo.cs
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\obj\Debug\net8.0\Autoreseteven.csproj.CoreCompileInputs.cache
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\obj\Debug\net8.0\Autoreseteven.sourcelink.json
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\obj\Debug\net8.0\Autoreseteven.dll
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\obj\Debug\net8.0\refint\Autoreseteven.dll
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\obj\Debug\net8.0\Autoreseteven.pdb
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\obj\Debug\net8.0\Autoreseteven.genruntimeconfig.cache
+F:\Github\OS_Lab\Assignments\OS_6\Autoreseteven\Autoreseteven\obj\Debug\net8.0\ref\Autoreseteven.dll

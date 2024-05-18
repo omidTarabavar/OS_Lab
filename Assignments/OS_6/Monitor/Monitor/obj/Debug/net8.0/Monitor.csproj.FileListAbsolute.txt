@@ -1,0 +1,15 @@
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\bin\Debug\net8.0\Monitor.exe
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\bin\Debug\net8.0\Monitor.deps.json
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\bin\Debug\net8.0\Monitor.runtimeconfig.json
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\bin\Debug\net8.0\Monitor.dll
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\bin\Debug\net8.0\Monitor.pdb
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\obj\Debug\net8.0\Monitor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\obj\Debug\net8.0\Monitor.AssemblyInfoInputs.cache
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\obj\Debug\net8.0\Monitor.AssemblyInfo.cs
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\obj\Debug\net8.0\Monitor.csproj.CoreCompileInputs.cache
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\obj\Debug\net8.0\Monitor.sourcelink.json
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\obj\Debug\net8.0\Monitor.dll
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\obj\Debug\net8.0\refint\Monitor.dll
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\obj\Debug\net8.0\Monitor.pdb
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\obj\Debug\net8.0\Monitor.genruntimeconfig.cache
+F:\Github\OS_Lab\Assignments\OS_6\Monitor\Monitor\obj\Debug\net8.0\ref\Monitor.dll

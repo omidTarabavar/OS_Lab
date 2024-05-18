@@ -1,0 +1,15 @@
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\bin\Debug\net8.0\Lock.exe
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\bin\Debug\net8.0\Lock.deps.json
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\bin\Debug\net8.0\Lock.runtimeconfig.json
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\bin\Debug\net8.0\Lock.dll
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\bin\Debug\net8.0\Lock.pdb
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\obj\Debug\net8.0\Lock.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\obj\Debug\net8.0\Lock.AssemblyInfoInputs.cache
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\obj\Debug\net8.0\Lock.AssemblyInfo.cs
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\obj\Debug\net8.0\Lock.csproj.CoreCompileInputs.cache
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\obj\Debug\net8.0\Lock.sourcelink.json
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\obj\Debug\net8.0\Lock.dll
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\obj\Debug\net8.0\refint\Lock.dll
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\obj\Debug\net8.0\Lock.pdb
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\obj\Debug\net8.0\Lock.genruntimeconfig.cache
+F:\Github\OS_Lab\Assignments\OS_6\Lock\Lock\obj\Debug\net8.0\ref\Lock.dll
