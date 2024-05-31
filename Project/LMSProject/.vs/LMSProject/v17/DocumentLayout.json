@@ -66,8 +66,7 @@
               "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T23:44:38.37Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "ToolTip": "dbo.Users [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-05-31T09:11:07.818Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -88,7 +86,7 @@
               "RelativeDocumentMoniker": "LMSProject\\Student.cs",
               "ToolTip": "F:\\Github\\OS_Lab\\Project\\LMSProject\\LMSProject\\Student.cs",
               "RelativeToolTip": "LMSProject\\Student.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAA9AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T09:18:18.904Z",
               "IsPinned": true,
@@ -104,8 +102,7 @@
               "RelativeToolTip": "LMSProject\\ProfessorMenu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T09:24:33.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T09:24:33.648Z"
             },
             {
               "$type": "Document",
@@ -117,8 +114,7 @@
               "RelativeToolTip": "LMSProject\\Professor.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T09:17:54.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T09:17:54.707Z"
             },
             {
               "$type": "Document",
@@ -130,8 +126,7 @@
               "RelativeToolTip": "LMSProject\\StudentMenu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T09:17:43.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T09:17:43.736Z"
             },
             {
               "$type": "Document",
@@ -155,8 +150,7 @@
               "RelativeToolTip": "LMSProject\\Course.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T08:37:34.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T08:37:34.05Z"
             },
             {
               "$type": "Document",
@@ -192,8 +186,7 @@
               "RelativeToolTip": "LMSProject\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T23:34:42.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T23:34:42.305Z"
             }
           ]
         }

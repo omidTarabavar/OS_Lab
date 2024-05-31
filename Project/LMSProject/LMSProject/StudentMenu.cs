@@ -9,6 +9,10 @@ namespace LMSProject
         {
             InitializeComponent();
             this.std = student;
+            listView1.View = View.Details;
+            listView1.Columns.Add("Course ID", 100);
+            listView1.Columns.Add("Title", 100);
+            listView1.Columns.Add("Professor", 100);
         }
 
         private void StudentMenu_Load(object sender, EventArgs e)
@@ -34,10 +38,7 @@ namespace LMSProject
 
                 SqlCommand sc = new SqlCommand(query, connection);
                 SqlDataReader rdr = sc.ExecuteReader();
-                listView1.View = View.Details;
-                listView1.Columns.Add("Course ID", 100);
-                listView1.Columns.Add("Title", 100);
-                listView1.Columns.Add("Professor", 100);
+
 
 
                 while (rdr.Read())
@@ -88,6 +89,15 @@ namespace LMSProject
             {
                 MessageBox.Show("Update Successful!");
             }
+        }
+
+        private void addCourse_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            AddCourseSTD addCourse = new AddCourseSTD(std);
+            addCourse.ShowDialog();
+            this.Show();
+            getCourses();
         }
     }
 }

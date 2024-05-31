@@ -35,8 +35,10 @@ namespace LMSProject
                     SqlDataReader rdr = sc.ExecuteReader();
                     if (rdr.HasRows)
                     {
+
                         rdr.Read();
                         int uId = int.Parse(rdr["uId"].ToString());
+
                         string name = rdr["name"].ToString();
                         string email = rdr["email"].ToString();
                         string password = rdr["password"].ToString();
@@ -51,19 +53,21 @@ namespace LMSProject
                         }
                         else
                         {
+
                             Student std = new Student(uId, name, email, password);
                             StudentMenu stdMenu = new StudentMenu(std);
                             this.Hide();
                             stdMenu.ShowDialog();
 
                         }
+                        connection.Close();
+                        this.Dispose();
                     }
                     else
                     {
                         MessageBox.Show("Invalid email or password!");
                     }
-                    connection.Close();
-                    this.Dispose();
+
                 }
                 catch (Exception ex)
                 {

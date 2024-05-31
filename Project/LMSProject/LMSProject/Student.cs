@@ -20,7 +20,7 @@ namespace LMSProject
             try
             {
                 connection.Open();
-                string query = $"SELECT cId, title, professor FROM Courses WHERE stdId = {stdId}";
+                string query = $"SELECT cId, title, professor FROM Courses WHERE uId = {stdId}";
                 SqlCommand sc = new SqlCommand(query, connection);
                 SqlDataReader rdr = sc.ExecuteReader();
 

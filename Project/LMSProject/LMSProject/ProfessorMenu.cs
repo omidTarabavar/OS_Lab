@@ -19,6 +19,10 @@ namespace LMSProject
             emailTbox_prof.Text = "" + professor.email;
             PassTBox_prof.Text = "" + professor.password;
             profNameLabel.Text = $"Welcome {professor.name}";
+            listView1.View = View.Details;
+            listView1.Columns.Add("Course ID", 100);
+            listView1.Columns.Add("Title", 100);
+            listView1.Columns.Add("Professor", 100);
             getCourses();
 
 
@@ -96,10 +100,7 @@ namespace LMSProject
 
                 SqlCommand sc = new SqlCommand(query, connection);
                 SqlDataReader rdr = sc.ExecuteReader();
-                listView1.View = View.Details;
-                listView1.Columns.Add("Course ID", 100);
-                listView1.Columns.Add("Title", 100);
-                listView1.Columns.Add("Professor", 100);
+
 
 
                 while (rdr.Read())
@@ -129,9 +130,10 @@ namespace LMSProject
             {
                 FormManageCourse manageCourse = new FormManageCourse(selectedCourse);
                 manageCourse.ShowDialog();
-                this.Show();
                 getCourses();
+                selectedCourse = null;
             }
+            this.Show();
         }
     }
 }

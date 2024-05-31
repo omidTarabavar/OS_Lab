@@ -66,3 +66,4 @@ F:\Github\OS_Lab\Project\LMSProject\LMSProject\obj\Debug\net8.0-windows\LMSProje
 F:\Github\OS_Lab\Project\LMSProject\LMSProject\obj\Debug\net8.0-windows\LMSProject.StudentMenu.resources
 F:\Github\OS_Lab\Project\LMSProject\LMSProject\obj\Debug\net8.0-windows\LMSProject.FormAdd.resources
 F:\Github\OS_Lab\Project\LMSProject\LMSProject\obj\Debug\net8.0-windows\LMSProject.FormManageCourse.resources
+F:\Github\OS_Lab\Project\LMSProject\LMSProject\obj\Debug\net8.0-windows\LMSProject.AddCourseSTD.resources

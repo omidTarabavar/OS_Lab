@@ -152,6 +152,7 @@
             addCourse.TabIndex = 25;
             addCourse.Text = "AddCourse";
             addCourse.UseVisualStyleBackColor = true;
+            addCourse.Click += addCourse_Click;
             // 
             // StudentMenu
             // 

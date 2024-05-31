@@ -34,7 +34,7 @@
             titleTB_mng = new TextBox();
             label1 = new Label();
             deleteCourse = new Button();
-            listView1 = new ListView();
+            listView1_mng = new ListView();
             label4 = new Label();
             button3 = new Button();
             SuspendLayout();
@@ -92,18 +92,19 @@
             deleteCourse.UseVisualStyleBackColor = true;
             deleteCourse.Click += deleteCourse_Click;
             // 
-            // listView1
+            // listView1_mng
             // 
-            listView1.Location = new Point(485, 82);
-            listView1.Name = "listView1";
-            listView1.Size = new Size(267, 220);
-            listView1.TabIndex = 15;
-            listView1.UseCompatibleStateImageBehavior = false;
+            listView1_mng.Location = new Point(371, 82);
+            listView1_mng.Name = "listView1_mng";
+            listView1_mng.Size = new Size(402, 220);
+            listView1_mng.TabIndex = 15;
+            listView1_mng.UseCompatibleStateImageBehavior = false;
+            listView1_mng.SelectedIndexChanged += listView1_mng_SelectedIndexChanged;
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(485, 54);
+            label4.Location = new Point(371, 54);
             label4.Name = "label4";
             label4.Size = new Size(81, 25);
             label4.TabIndex = 16;
@@ -112,12 +113,13 @@
             // 
             // button3
             // 
-            button3.Location = new Point(485, 342);
+            button3.Location = new Point(436, 342);
             button3.Name = "button3";
             button3.Size = new Size(267, 34);
             button3.TabIndex = 17;
             button3.Text = "Delete_Selected_Student";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // FormManageCourse
             // 
@@ -126,7 +128,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(button3);
             Controls.Add(label4);
-            Controls.Add(listView1);
+            Controls.Add(listView1_mng);
             Controls.Add(deleteCourse);
             Controls.Add(button1);
             Controls.Add(cId_mng);
@@ -148,7 +150,7 @@
         private TextBox titleTB_mng;
         private Label label1;
         private Button deleteCourse;
-        private ListView listView1;
+        private ListView listView1_mng;
         private Label label4;
         private Button button3;
     }
